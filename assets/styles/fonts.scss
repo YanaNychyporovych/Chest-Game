@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'a_BremenCaps';
+    src: url('../fonts/ABremenCaps.woff2') format('woff2'),
+        url('../fonts/ABremenCaps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/PTSans-Regular.eot');
+    src: local('PT Sans'), local('PTSans-Regular'),
+        url('../fonts/PTSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PTSans-Regular.woff') format('woff'),
+        url('../fonts/PTSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
